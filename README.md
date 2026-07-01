@@ -163,7 +163,7 @@
 * [Alright Gallery](https://play.google.com/store/apps/details?id=dev.goodwy.gallery)
 
 ## Games
-* [Lichess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
+
 * [Mindustry](https://play.google.com/store/apps/details?id=io.anuke.mindustry)
 * [Mental Math](https://play.google.com/store/apps/details?id=com.helddertierwelt.mentalmath)
 * [Parlera](https://play.google.com/store/apps/details?id=com.enjoyingfoss.parlera)

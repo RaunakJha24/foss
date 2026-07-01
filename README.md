@@ -161,6 +161,7 @@
 * [Aves](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
 * [Gallery](https://play.google.com/store/apps/details?id=com.dot.gallery.gplay)
 * [Alright Gallery](https://play.google.com/store/apps/details?id=dev.goodwy.gallery)
+* [Immich](https://play.google.com/store/apps/details?id=app.alextran.immich)
 
 ## Games
 

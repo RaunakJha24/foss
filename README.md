@@ -219,6 +219,7 @@
 ## Music Player
 * [Vinyl](https://play.google.com/store/apps/details?id=com.poupa.vinylmusicplayer)
 * [Noad Player](https://play.google.com/store/apps/details?id=com.droidheat.musicplayer)
+* [Gramophone](https://play.google.com/store/apps/details?id=org.akanework.gramophone)
 
 ## Notes
 * [Notally](https://play.google.com/store/apps/details?id=com.omgodse.notally)

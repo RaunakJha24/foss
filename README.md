@@ -22,7 +22,7 @@
 * [E-mail](https://github.com/RaunakJha24/foss?tab=readme-ov-file#e-mail)
 * [Emulation](https://github.com/RaunakJha24/foss?tab=readme-ov-file#emulation)
 * [File Manager](https://github.com/RaunakJha24/foss?tab=readme-ov-file#file-manager)
-* [File Sunchronization](https://github.com/RaunakJha24/foss?tab=readme-ov-file#file-synchronization)
+* [File Synchronization](https://github.com/RaunakJha24/foss?tab=readme-ov-file#file-synchronization)
 * [Finance](https://github.com/RaunakJha24/foss?tab=readme-ov-file#finance)
 * [Firewall](https://github.com/RaunakJha24/foss?tab=readme-ov-file#firewall)
 * [Flash Cards](https://github.com/RaunakJha24/foss?tab=readme-ov-file#flash-cards)
@@ -103,7 +103,7 @@
 
 ## Device Synchronization
 * [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
-* [LocaSend](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)
+* [Local Send](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)
 
 ## Dialer
 * [Fossify Phone](https://play.google.com/store/apps/details?id=org.fossify.phone)

@@ -7,6 +7,7 @@
 * [Ad Blockers and Tracker Monitoring](https://github.com/RaunakJha24/foss#ad-blockers-and-tracker-monitoring)
 * [bACKGROUND nOISE](https://github.com/RaunakJha24/foss#background-noise)
 * [Barcode Scanner](https://github.com/RaunakJha24/foss#barcode-scanner)
+* [Bookmark Manager](https://github.com/RaunakJha24/foss#bookmark-manager)
 * [Browser](https://github.com/RaunakJha24/foss?tab=readme-ov-file#browser)
 * [Calculator](https://github.com/RaunakJha24/foss?tab=readme-ov-file#calculator)
 * [Calender](https://github.com/RaunakJha24/foss?tab=readme-ov-file#calender)
@@ -83,6 +84,9 @@
 ## Barcode Scanner
 * [Binary Eye](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
 * [Simple QR](https://play.google.com/store/apps/details?id=com.tomfong.simpleqr)
+
+## Bookmark Manager
+* [Floccus](https://play.google.com/store/apps/details?id=org.handmadeideas.floccus)
 
 ## Browser
 * [Brave](https://play.google.com/store/apps/details?id=com.brave.browser)
